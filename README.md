@@ -1,6 +1,6 @@
 # Transactions to Graph
 
-Update 4/5/2017: I presented a paper with this Macro in SAS Global Forum 2017 https://support.sas.com/resources/papers/proceedings17/1065-2017.pdf
+<b>Update 4/5/2017: I presented a paper with this Macro in SAS Global Forum 2017 https://support.sas.com/resources/papers/proceedings17/1065-2017.pdf</b>
 
 So SAS has finally had some fun toys to work with graphs! Yes, they are developing a PROC OPTGRAPH, and I am lucky enough to get to use one of its initial versions. Transforming transactional data to graphs in SAS is not too simple at the moment, so I am writing this Macro to assist you with that.
 
